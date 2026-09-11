@@ -10,7 +10,7 @@ soluciones con IA que resuelvan problemas reales.
 ## 🚀 Actualmente
 
 - 🔭 Buscando activamente oportunidades como Data Scientist / Data Analyst en Madrid
-- 
+
 ## 🛠️ Tecnologías
 
 **Lenguajes & Datos**
