@@ -1,6 +1,7 @@
 # Hola, soy Kike 👋
 
 🎓 Graduado en Ingeniería Informática (UFV) — especialización en IA aplicada a Robótica
+
 📍 Madrid, España
 
 Soy Data Scientist / Data Analyst junior. Me interesa especialmente el
