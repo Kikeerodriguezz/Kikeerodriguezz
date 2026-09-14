@@ -1,44 +1,41 @@
 # Hola, soy Kike 👋
 
-🎓 Graduado en Ingeniería Informática (UFV) — especialización en IA aplicada a Robótica
-
+🎓 Graduado en Ingeniería Informática por la Universidad Francisco de Vitoria, con especialización en IA aplicada a Robótica.  
 📍 Madrid, España
 
-Soy Data Scientist / Data Analyst junior. Me interesa especialmente el
-machine learning aplicado a negocio, el análisis de datos y construir
-soluciones con IA que resuelvan problemas reales.
+Soy **Data Analyst / Data Scientist junior**. Me interesa especialmente el análisis de datos, el machine learning aplicado a negocio y crear productos tecnológicos que resuelvan problemas reales.
 
-## 🚀 Actualmente
+## 🚀 Buscando oportunidades
 
-- 🔭 Buscando activamente oportunidades como Data Scientist / Data Analyst en Madrid
-
-## 🛠️ Tecnologías
-
-**Lenguajes & Datos**
-- Python (pandas, scikit-learn, XGBoost, Random Forest, Matplotlib/Seaborn)
-- SQL / Oracle
-- SAS
-
-**BI & Analytics**
-- Power BI (DAX)
-
-**Dev & Cloud**
-- Git (Merge Requests, CI/CD)
-- AWS · Docker · Kubernetes
-- Kotlin / Jetpack Compose (Android)
-
-**IA / LLMs**
-- Integración de APIs de LLM (Claude API)
+Estoy abierto a oportunidades junior en **Data Analysis, Data Science, Machine Learning** y desarrollo de soluciones basadas en datos.
 
 ## 📌 Proyectos destacados
 
-### 📱 PAUSIVA — Trabajo de Fin de Grado
-App Android para monitorización pasiva del uso del móvil y detección de
-patrones de comportamiento digital. Desarrollada con Kotlin, Jetpack
-Compose y Room Database.
+### [📱 PAUSIVA — Trabajo de Fin de Grado](https://github.com/Kikeerodriguezz/Pausiva)
 
-### 📊 ...
+Aplicación Android de monitorización pasiva del uso del móvil y detección de patrones de comportamiento digital, con procesamiento local de datos.
+
+**Kotlin · Jetpack Compose · Room · WorkManager · Android**
+
+### [📊 Football Player Discipline Mining](https://github.com/Kikeerodriguezz/Football-player-discipline-mining)
+
+Proyecto de minería de datos sobre perfiles de futbolistas y registros disciplinarios. Incluye análisis exploratorio, clustering con K-Means y modelos de clasificación.
+
+**Python · pandas · scikit-learn · Jupyter Notebook · Machine Learning**
+
+### [🛒 EconoList](https://github.com/Kikeerodriguezz/EconoList)
+
+Aplicación web grupal para comparar precios entre supermercados españoles y ayudar a construir una cesta de la compra más económica.
+
+**Java · Spring Boot · Vaadin · PostgreSQL · Docker · REST API**
+
+## 🛠️ Tecnologías
+
+- **Datos e IA:** Python, pandas, scikit-learn, SQL, Power BI, SAS
+- **Desarrollo:** Java, Spring Boot, Kotlin, Jetpack Compose, REST APIs
+- **Bases de datos e infraestructura:** PostgreSQL, Oracle, MySQL, Docker, Git
 
 ## 📫 Contacto
-- LinkedIn: https://www.linkedin.com/in/jose-enrique-rodriguez/
-- Email: kikerodrice@gmail.com
+
+- [LinkedIn](https://www.linkedin.com/in/jose-enrique-rodriguez/)
+- [Email](mailto:kikerodrice@gmail.com)
