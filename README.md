@@ -38,4 +38,4 @@ Aplicación web grupal para comparar precios entre supermercados españoles y ay
 ## 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/jose-enrique-rodriguez/)
-- [Email](mailto:kikerodrice@gmail.com)
+- [Email](mailto:kikerodrice@gmail.com) - kikerodrice@gmail.com
