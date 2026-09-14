@@ -37,18 +37,6 @@ App Android para monitorización pasiva del uso del móvil y detección de
 patrones de comportamiento digital. Desarrollada con Kotlin, Jetpack
 Compose y Room Database.
 
-### 📈 Modelos predictivos — Línea Directa Aseguradora
-Modelos de ML (Random Forest, XGBoost) para conversión de especialistas
-y cancelación de pólizas en Auto, Motos y Hogar. Incluye un motor de
-automatización de incentivos comerciales en Python y dashboards de
-Power BI con DAX.
-
-### 🔐 Eco-Securitas
-Sistema IoT distribuido para monitorización y seguridad.
-
-### 📱 UnchainU
-Aplicación para gestión de hábitos desarrollada con .NET MAUI.
-
 ### 📊 ...
 
 ## 📫 Contacto
